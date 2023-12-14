@@ -1,0 +1,8 @@
+*{
+  margin: 0;
+  padding: 0;
+  /* background: linear-gradient(90deg, rgb(16, 9, 39), #2b06a4); */
+}
+.bac{
+  background: linear-gradient(90deg, #4c24d0, rgb(51, 25, 134));
+}
